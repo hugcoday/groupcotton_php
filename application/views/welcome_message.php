@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+Ôªø<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
 <HTML dir=ltr lang=en-US xmlns="http://www.w3.org/1999/xhtml">
     
     <HEAD>
@@ -55,17 +55,17 @@
                             <UL>
                                 <LI>
                                     <A href="/index.html">
-                                        	 ◊“≥
+                                        	È¶ñÈ°µ
                                     </A>
                                 </LI>
                                 <LI>
                                     <A href="about-page.htm">
-                                        	πÿ”⁄Œ“√«
+                                        	ÂÖ≥‰∫éÊàë‰ª¨
                                     </A>
                                 </LI>
                                 <LI>
                                     <A href="services-page.html">
-                                        	∑˛ŒÒœÓƒø
+                                        	ÊúçÂä°È°πÁõÆ
                                     </A>
                                     <DIV class=dd-holder>
                                         <DIV class=dd-t>
@@ -199,22 +199,22 @@
                                 </LI>
                                 <LI>
                                     <A href="projects.html">
-                                        	≤˙∆∑œÓƒø
+                                        	‰∫ßÂìÅÈ°πÁõÆ
                                     </A>
                                 </LI>
                                 <LI>
                                     <A href="blog-page.html">
-                                        	Œ¢≤©
+                                        	ÂæÆÂçö
                                     </A>
                                 </LI>
                                 <LI>
                                     <A href="contact-page.html">
-                                        	¡™œµ∑Ω Ω
+                                        	ËÅîÁ≥ªÊñπÂºè
                                     </A>
                                 </LI>
                                 <LI class=last>
                                     <A href="#">
-                                        	π¶ƒ‹
+                                        	ÂäüËÉΩ
                                     </A>
                                     <DIV class=dd-holder>
                                         <DIV class=dd-t>
@@ -400,7 +400,7 @@
                         <!-- slider sidebar -->
                         <DIV class=slider-sidebar>
                             <H2>
-                                	◊Ó–¬√¿ ≥
+                                	ÊúÄÊñ∞ÁæéÈ£ü
                             </H2>
                             <P>
                                 Quisque eleifend, arcu a dictum v1arius, risus neque venenatis arcu, a
@@ -408,7 +408,7 @@
                                 libris dolorum denique, risus neque venenatis arcu, a semper massa.
                             </P>
                             <A class=slider-btn href="#">
-                               	ƒ„œÎ÷™µ¿∏¸∂‡?
+                               	‰Ω†ÊÉ≥Áü•ÈÅìÊõ¥Â§ö?
                             </A>
                         </DIV>
                         <!-- end slide sidebar -->
