@@ -6,9 +6,9 @@
         	GroupCotton.tk
         </TITLE>
         <META content="text/html; charset=utf-8" http-equiv=Content-type>
-        <LINK rel="shortcut icon" href="css/images/favicon.ico?cb=1">
-        <LINK rel=stylesheet type=text/css href="files/style.css" media=all>
-        <LINK rel=stylesheet type=text/css href="files/jquery.fancybox-1.3.2.css"
+        <LINK rel="shortcut icon" href="/css/images/favicon.ico?cb=1">
+        <LINK rel=stylesheet type=text/css href="/files/style.css" media=all>
+        <LINK rel=stylesheet type=text/css href="/files/jquery.fancybox-1.3.2.css"
         media=all>
         <!--[if IE 6]>
             <link rel="stylesheet" href="css/ie6.css" type="text/css" media="all"
@@ -16,20 +16,20 @@
             <script src="js/png-fix.js" type="text/javascript" charset="utf-8">
             </script>
         <![endif]-->
-        <SCRIPT type=text/javascript charset=utf-8 src="files/jquery-1.4.2.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/jquery-1.4.2.js">
         </SCRIPT>
         
-        <SCRIPT type=text/javascript charset=utf-8 src="files/jquery.easing.1.3.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/jquery.easing.1.3.js">
         </SCRIPT>
-        <SCRIPT type=text/javascript charset=utf-8 src="files/jquery.fancybox-1.3.2.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/jquery.fancybox-1.3.2.js">
         </SCRIPT>
-        <SCRIPT type=text/javascript charset=utf-8 src="files/jquery.mousewheel-3.0.2.pack.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/jquery.mousewheel-3.0.2.pack.js">
         </SCRIPT>
-        <SCRIPT type=text/javascript charset=utf-8 src="files/easySlider1.5.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/easySlider1.5.js">
         </SCRIPT>
-        <SCRIPT type=text/javascript charset=utf-8 src="files/jquery.jcarousel.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/jquery.jcarousel.js">
         </SCRIPT>
-        <SCRIPT type=text/javascript charset=utf-8 src="files/js-func.js">
+        <SCRIPT type=text/javascript charset=utf-8 src="/files/js-func.js">
         </SCRIPT>
         <META name=GENERATOR content="MSHTML 8.00.7600.16535">
     </HEAD>
